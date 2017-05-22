@@ -1,0 +1,8 @@
+{
+	"title": "$:/languages/eo",
+	"name": "eo",
+	"plugin-type": "language",
+	"description": "Esperanto (Lingvo Internacia)",
+	"author": "lordratte",
+	"core-version": ">=5.0.0"
+}
