@@ -1,21 +1,21 @@
 title: $:/language/TiddlerInfo/
 
-Advanced/Caption: Advanced
-Advanced/PluginInfo/Empty/Hint: none
-Advanced/PluginInfo/Heading: Plugin Details
-Advanced/PluginInfo/Hint: This plugin contains the following shadow tiddlers:
-Advanced/ShadowInfo/Heading: Shadow Status
-Advanced/ShadowInfo/NotShadow/Hint: The tiddler <$link to=<<infoTiddler>>><$text text=<<infoTiddler>>/></$link> is not a shadow tiddler
-Advanced/ShadowInfo/Shadow/Hint: The tiddler <$link to=<<infoTiddler>>><$text text=<<infoTiddler>>/></$link> is a shadow tiddler
-Advanced/ShadowInfo/Shadow/Source: It is defined in the plugin <$link to=<<pluginTiddler>>><$text text=<<pluginTiddler>>/></$link>
-Advanced/ShadowInfo/OverriddenShadow/Hint: It is overridden by an ordinary tiddler
-Fields/Caption: Fields
-List/Caption: List
-List/Empty: This tiddler does not have a list
-Listed/Caption: Listed
-Listed/Empty: This tiddler is not listed by any others
-References/Caption: References
-References/Empty: No tiddlers link to this one
-Tagging/Caption: Tagging
-Tagging/Empty: No tiddlers are tagged with this one
-Tools/Caption: Tools
+Advanced/Caption: Spertula
+Advanced/PluginInfo/Empty/Hint: neniu
+Advanced/PluginInfo/Heading: Aldonaĵo Detaloj
+Advanced/PluginInfo/Hint: Ĉi tiu Aldonaĵo enhavas la sekvanta ombro-tiddler-oj:
+Advanced/ShadowInfo/Heading: Ombr-Statuso
+Advanced/ShadowInfo/NotShadow/Hint: La tiddler-o <$link to=<<infoTiddler>>><$text text=<<infoTiddler>>/></$link> ne estas ombro-tiddler-o
+Advanced/ShadowInfo/Shadow/Hint: La tiddler-o <$link to=<<infoTiddler>>><$text text=<<infoTiddler>>/></$link> estas ombro-tiddler-o
+Advanced/ShadowInfo/Shadow/Source: Ĝi estas difinita en la aldonaĵo <$link to=<<pluginTiddler>>><$text text=<<pluginTiddler>>/></$link>
+Advanced/ShadowInfo/OverriddenShadow/Hint: Ĝi estas duarangigita per ordinara tiddler-o
+Fields/Caption: Argoj
+List/Caption: Listo
+List/Empty: Ĉi tiu tiddler-o ne havas liston
+Listed/Caption: Listita
+Listed/Empty: Ĉi tiu tiddler-o ne estas listita per iu alia
+References/Caption: Referencoj
+References/Empty: Neniu tiddler-oj ligas al ĉi tiu
+Tagging/Caption: Etikedanto
+Tagging/Empty: Neniu tiddler-oj estas Etikedata kun ĉi tiu
+Tools/Caption: Iloj
